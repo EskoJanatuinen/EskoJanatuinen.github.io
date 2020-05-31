@@ -1,9 +1,26 @@
 <html>
   <head>
-    <title>Esko Janatuinen GitHub Pages</title>
+    <title></title>
     <style>
       body {
+        background-color: black;
         margin: 0;
+      }
+      h1 {
+        display: block;
+        font: 2em Arial, sans-serif;
+        margin-top: 0.67em;
+        margin-left: 0.67em;
+        margin-right: 0;
+        color: white;
+        background-color: black;
+      }
+      h2 {
+        font: italic 1.3em Arial, sans-serif;
+        margin-bottom: 0.67em;
+        margin-left: 1.2em;
+        margin-right: 0;
+        color: white;
       }
       canvas {
         display: block;
@@ -11,7 +28,8 @@
     </style>
   </head>
   <body>
-  <h1>Esko Janatuinen GitHub Pages</h1>
+    <h1>Esko Janatuinen</h1>
+    <h2>GitHub Pages</h2>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
