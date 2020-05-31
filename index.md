@@ -59,10 +59,10 @@
           map: loader.load("s3.jpg"),
         }),
         new THREE.MeshBasicMaterial({
-          map: loader.load("666.jpg"),
+          map: loader.load("6.jpg"),
         }),
         new THREE.MeshBasicMaterial({
-          map: loader.load("666.jpg"),
+          map: loader.load("6.jpg"),
         }),
       ];
       let cube = new THREE.Mesh(geometry, materialArray);
