@@ -4,7 +4,23 @@
     <title></title>
     <style>
       body {
+        background-color: black;
         margin: 0;
+      }
+      h1 {
+        font: 2em Arial, sans-serif;
+        margin-top: 0.6em;
+        margin-bottom: -0.4em;
+        margin-left: 0.7em;
+        margin-right: 0;
+        color: white;
+        background-color: black;
+      }
+      h2 {
+        font: italic 1.3em Arial, sans-serif;
+        margin-left: 1.4em;
+        margin-right: 0;
+        color: white;
       }
       canvas {
         display: block;
@@ -12,6 +28,8 @@
     </style>
   </head>
   <body>
+    <h1>Esko Janatuinen</h1>
+    <h2>GitHub Pages</h2>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
@@ -42,10 +60,10 @@
           map: loader.load("s3.jpg"),
         }),
         new THREE.MeshBasicMaterial({
-          map: loader.load("666.jpg"),
+          map: loader.load("6.jpg"),
         }),
         new THREE.MeshBasicMaterial({
-          map: loader.load("666.jpg"),
+          map: loader.load("6.jpg"),
         }),
       ];
       let cube = new THREE.Mesh(geometry, materialArray);
@@ -59,9 +77,9 @@
       var animate = function () {
         requestAnimationFrame(animate);
 
-        cube.rotation.x += 0.006;
-        cube.rotation.y += 0.006;
-        cube.rotation.z += 0.003;
+        cube.rotation.x += 0.004;
+        cube.rotation.y += 0.004;
+        cube.rotation.z += 0.001;
 
         renderer.render(scene, camera);
       };
