@@ -7,16 +7,16 @@
         margin: 0;
       }
       h1 {
-        display: block;
-        font: 2.4em Arial, sans-serif;
-        margin-top: 0.67em;
-        margin-left: 0.67em;
+        font: 2em Arial, sans-serif;
+        margin-top: 0.6em;
+        margin-bottom: -0.4em;
+        margin-left: 0.7em;
         margin-right: 0;
         color: white;
         background-color: black;
       }
       h2 {
-        font: italic 1.8em Arial, sans-serif;
+        font: italic 1.3em Arial, sans-serif;
         margin-left: 1.4em;
         margin-right: 0;
         color: white;
