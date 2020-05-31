@@ -11,7 +11,7 @@
     </style>
   </head>
   <body>
-  <a href="https://eskojanatuinen.github.io/test.html">test_link</a>
+  <a href="https://eskojanatuinen.github.io/test.html">testLink</a>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
