@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title></title>
+    <title>Esko Janatuinen GitHub Pages</title>
     <style>
       body {
         margin: 0;
