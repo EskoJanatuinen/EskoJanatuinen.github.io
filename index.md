@@ -11,6 +11,7 @@
     </style>
   </head>
   <body>
+  <h1>Esko Janatuinen GitHub Pages</h1>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
