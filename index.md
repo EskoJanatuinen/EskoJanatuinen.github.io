@@ -8,7 +8,7 @@
       }
       h1 {
         display: block;
-        font: 2.2em Arial, sans-serif;
+        font: 2.4em Arial, sans-serif;
         margin-top: 0.67em;
         margin-left: 0.67em;
         margin-right: 0;
@@ -17,8 +17,7 @@
       }
       h2 {
         font: italic 1.8em Arial, sans-serif;
-        margin-bottom: 0.67em;
-        margin-left: 1.2em;
+        margin-left: 1.4em;
         margin-right: 0;
         color: white;
       }
