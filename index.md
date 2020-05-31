@@ -77,9 +77,9 @@
       var animate = function () {
         requestAnimationFrame(animate);
 
-        cube.rotation.x += 0.006;
-        cube.rotation.y += 0.006;
-        cube.rotation.z += 0.003;
+        cube.rotation.x += 0.005;
+        cube.rotation.y += 0.005;
+        cube.rotation.z += 0.002;
 
         renderer.render(scene, camera);
       };
