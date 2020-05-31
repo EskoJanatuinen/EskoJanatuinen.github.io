@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title></title>
@@ -12,6 +11,7 @@
     </style>
   </head>
   <body>
+  <a href="https://eskojanatuinen.github.io/test.html">testLink</a>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
@@ -68,5 +68,6 @@
 
       animate();
     </script>
+
   </body>
 </html>
