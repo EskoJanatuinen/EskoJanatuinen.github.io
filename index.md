@@ -70,7 +70,7 @@
       scene.add(cube);
 
       camera.position.z = 2;
-      camera.position.y = -0.3;
+      cube.position.y = 0.3;
 
       var animate = function () {
         requestAnimationFrame(animate);
