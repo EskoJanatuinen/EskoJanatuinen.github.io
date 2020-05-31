@@ -7,16 +7,16 @@
         margin: 0;
       }
       h1 {
-        font: 2.3em Arial, sans-serif;
+        font: 2.2em Arial, sans-serif;
         margin-top: 0.6em;
-        margin-bottom: -0.5em;
+        margin-bottom: -0.6em;
         margin-left: 0.7em;
         margin-right: 0;
         color: white;
         background-color: black;
       }
       h2 {
-        font: italic 1.7em Arial, sans-serif;
+        font: italic 1.6em Arial, sans-serif;
         margin-left: 1.4em;
         margin-right: 0;
         color: white;
@@ -66,8 +66,6 @@
         }),
       ];
       let cube = new THREE.Mesh(geometry, materialArray);
-
-      //---
 
       scene.add(cube);
 
