@@ -4,11 +4,9 @@
     <style>
       body {
         margin: 0;
-        background-color: white;
       }
       canvas {
         display: block;
-        background-color: white;
       }
     </style>
   </head>
@@ -69,5 +67,6 @@
 
       animate();
     </script>
+
   </body>
 </html>
