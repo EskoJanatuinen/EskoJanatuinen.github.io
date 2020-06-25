@@ -9,7 +9,7 @@
       h1 {
         font: 2.2em Arial, sans-serif;
         margin-top: 0.6em;
-        margin-bottom: 0.2em;
+        margin-bottom: -0.6em;
         margin-left: 0.7em;
         margin-right: 0;
         color: white;
