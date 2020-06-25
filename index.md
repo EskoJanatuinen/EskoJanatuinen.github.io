@@ -7,8 +7,8 @@
         margin: 0;
       }
       @media only screen and (max-width: 700px) {
-       body {
-        background-color: lightblue;
+       a {
+        font: italic 2.2em Arial, sans-serif;
         }
        }
       h1 {
