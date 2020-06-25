@@ -33,7 +33,7 @@
   </head>
   <body>
     <h1>Esko Janatuinen</h1>
-    <a href=https://github.com/eskojanatuinen>Github</a>
+    <a href="https://github.com/eskojanatuinen">GitHub</a>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
