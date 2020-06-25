@@ -6,6 +6,11 @@
         background-color: black;
         margin: 0;
       }
+      @media only screen and (max-width: 700px) {
+       body {
+        background-color: lightblue;
+        }
+       }
       h1 {
         font: 2.2em Arial, sans-serif;
         margin-top: 0.6em;
