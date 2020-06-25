@@ -9,7 +9,7 @@
       h1 {
         font: 2.2em Arial, sans-serif;
         margin-top: 0.6em;
-        margin-bottom: -0.6em;
+        margin-bottom: 0.6em;
         margin-left: 0.7em;
         margin-right: 0;
         color: white;
@@ -21,6 +21,11 @@
         margin-right: 0;
         color: white;
       }
+      a {
+        font: 1.4em Arial, sans-serif;
+        margin-left: 1.4em;
+        color: white;
+      }
       canvas {
         display: block;
       }
@@ -28,6 +33,7 @@
   </head>
   <body>
     <h1>Esko Janatuinen</h1>
+    <a href=https://github.com/eskojanatuinen>Github</a>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
