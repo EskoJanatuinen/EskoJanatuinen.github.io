@@ -14,7 +14,7 @@
       h1 {
         font: 2.2em Arial, sans-serif;
         margin-top: 0.6em;
-        margin-bottom: 0.1em;
+        margin-bottom: 0.2;
         margin-left: 0.7em;
         margin-right: 0;
         color: white;
