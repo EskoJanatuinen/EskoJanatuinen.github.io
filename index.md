@@ -15,7 +15,7 @@
         color: white;
         background-color: black;
       }
-      h2 {
+      a {
         font: italic 1.6em Arial, sans-serif;
         margin-left: 1.4em;
         margin-right: 0;
@@ -28,7 +28,7 @@
   </head>
   <body>
     <h1>Esko Janatuinen</h1>
-    <h2>GitHub Pages</h2>
+    <a href=https://github.com/eskojanatuinen>Github</a>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
