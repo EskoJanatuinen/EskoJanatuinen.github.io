@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+h1 {
+  font: 2.4em Arial, sans-serif;
+  margin-top: 0.6em;
+  margin-bottom: 0.2;
+  margin-left: 0.7em;
+  margin-right: 0;
+  color: white;
+  background-color: black;
+}
+h2 {
+  font: italic 1.6em Arial, sans-serif;
+  margin-left: 1.4em;
+  margin-right: 0;
+  color: white;
+}
+a {
+  font: 1.4em Arial, sans-serif;
+  margin-left: 1.6em;
+  color: white;
+}
+canvas {
+  display: block;
+}
