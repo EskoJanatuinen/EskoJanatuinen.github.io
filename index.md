@@ -6,13 +6,8 @@
         background-color: black;
         margin: 0;
       }
-      @media only screen and (max-width: 700px) {
-       a {
-        font: italic 2.2em Arial, sans-serif;
-        }
-       }
       h1 {
-        font: 2.2em Arial, sans-serif;
+        font: 2.4em Arial, sans-serif;
         margin-top: 0.6em;
         margin-bottom: 0.2;
         margin-left: 0.7em;
@@ -27,7 +22,7 @@
         color: white;
       }
       a {
-        font: 1.2em Arial, sans-serif;
+        font: 1.4em Arial, sans-serif;
         margin-left: 1.6em;
         color: white;
       }
