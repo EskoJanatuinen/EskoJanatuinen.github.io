@@ -9,13 +9,13 @@
       h1 {
         font: 2.2em Arial, sans-serif;
         margin-top: 0.6em;
-        margin-bottom: 0.2em;
+        margin-bottom: -0.6em;
         margin-left: 0.7em;
         margin-right: 0;
         color: white;
         background-color: black;
       }
-      a {
+      h2 {
         font: italic 1.6em Arial, sans-serif;
         margin-left: 1.4em;
         margin-right: 0;
@@ -28,7 +28,6 @@
   </head>
   <body>
     <h1>Esko Janatuinen</h1>
-    <a href=https://github.com/eskojanatuinen>Github</a>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
