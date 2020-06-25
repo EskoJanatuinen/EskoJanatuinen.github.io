@@ -9,7 +9,7 @@
       h1 {
         font: 2.2em Arial, sans-serif;
         margin-top: 0.6em;
-        margin-bottom: 0.6em;
+        margin-bottom: 0;
         margin-left: 0.7em;
         margin-right: 0;
         color: white;
@@ -22,8 +22,8 @@
         color: white;
       }
       a {
-        font: 1.4em Arial, sans-serif;
-        margin-left: 1.4em;
+        font: 1.2em Arial, sans-serif;
+        margin-left: 1.6em;
         color: white;
       }
       canvas {
