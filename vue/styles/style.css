@@ -97,11 +97,11 @@ button {
 @media screen and (orientation: portrait) {
   #app {
     width: auto;
-    background-color: red;
+    background-color: yellow;
   }
   form {
     width: auto;
-    padding: 1em;
+    padding: 0;
   }
   input,
   textarea {
@@ -113,5 +113,9 @@ button {
   }
   .luokka:hover {
     width: auto;
+  }
+  #reset {
+    margin: 0.5em;
+    display: table;
   }
 }
