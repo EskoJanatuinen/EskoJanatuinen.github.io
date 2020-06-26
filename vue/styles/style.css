@@ -26,19 +26,6 @@ h1 {
   text-shadow: 4px 4px 2px rgb(141, 141, 141);
 }
 
-@media screen and (orientation: portrait) {
-  #app {
-    width: auto;
-    background-color: red;
-  }
-  h1 {
-    font-size: 40px;
-  }
-  .submitted {
-    font-size: 50px;
-  }
-}
-
 p {
   margin-left: 7em;
   font-size: 16px;
@@ -105,4 +92,15 @@ button {
 #reset {
   margin: 0 0.5em;
   display: table;
+}
+
+@media screen and (orientation: portrait) {
+  #app {
+    width: auto;
+    background-color: red;
+  }
+  form {
+    width: auto;
+    padding: 2em;
+  }
 }
