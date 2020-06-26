@@ -26,7 +26,7 @@ h1 {
   text-shadow: 4px 4px 2px rgb(141, 141, 141);
 }
 
-@media only screen and (max-width: 1450px) {
+@media screen and (orientation: portrait) {
   #app {
     width: auto;
     background-color: red;
