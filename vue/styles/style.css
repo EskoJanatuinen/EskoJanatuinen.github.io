@@ -90,14 +90,17 @@ button {
 }
 
 #reset {
-  margin: 0 0.5em;
+  margin: 0 0.6em;
   display: table;
 }
 
 @media screen and (orientation: portrait) {
   #app {
     width: auto;
-    margin: 2em 1em;
+    margin: 2em 0.6em;
+  }
+  .submitted {
+    font-size: 55px;
   }
   form {
     width: auto;
