@@ -101,14 +101,15 @@ button {
   }
   form {
     width: auto;
-    padding: 2em;
+    padding: 1em;
   }
   input,
   textarea {
     width: auto;
   }
   p {
-    margin: 3em;
+    width: auto;
+    margin: 0;
   }
   .luokka:hover {
     width: auto;
