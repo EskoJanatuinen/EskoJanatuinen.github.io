@@ -29,13 +29,13 @@ h1 {
 @media only screen and (max-width: 700px) {
   #app {
     width: auto;
+    background-color: red;
   }
   h1 {
     font-size: 40px;
   }
   .submitted {
     font-size: 50px;
-    font-weight: bolder;
   }
 }
 
