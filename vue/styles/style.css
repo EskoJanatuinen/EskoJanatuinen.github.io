@@ -98,9 +98,10 @@ button {
   #app {
     width: auto;
     margin: 2em 0.6em;
+    padding: 0 10px 10px 10px;
   }
   .submitted {
-    font-size: 55px;
+    font-size: 50px;
   }
   form {
     width: auto;
@@ -108,7 +109,7 @@ button {
   }
   input,
   textarea {
-    width: 200px;
+    width: 220px;
   }
   p {
     width: auto;
