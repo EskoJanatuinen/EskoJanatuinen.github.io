@@ -97,10 +97,10 @@ button {
 @media screen and (orientation: portrait) {
   #app {
     width: auto;
+    margin: 2em 1em;
   }
   form {
     width: auto;
-    margin: 3em 1em;
     padding: 0;
   }
   input,
