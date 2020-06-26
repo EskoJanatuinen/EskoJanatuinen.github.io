@@ -108,7 +108,7 @@ button {
   }
   input,
   textarea {
-    width: auto;
+    width: 200px;
   }
   p {
     width: auto;
