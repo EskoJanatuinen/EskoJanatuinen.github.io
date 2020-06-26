@@ -5,8 +5,14 @@
   </head>
   <body>
     <h1>Esko Janatuinen</h1>
-    <a href="https://github.com/eskojanatuinen">GitHub</a>
-    <a href="https://github.com/eskojanatuinen/vue/index.html">Testing Vue.js</a>
+    <ul>
+      <li>
+       <a href="https://github.com/eskojanatuinen">GitHub</a>
+      </li>
+      <li>
+       <a href="https://eskojanatuinen.github.io/vue/index.html">Testing Vue.js</a>
+     </li>
+    </ul>
     <script src="js/three.js"></script>
     <script>
       var scene = new THREE.Scene();
