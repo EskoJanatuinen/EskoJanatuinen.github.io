@@ -97,7 +97,6 @@ button {
 @media screen and (orientation: portrait) {
   #app {
     width: auto;
-    background-color: yellow;
   }
   form {
     width: auto;
@@ -109,13 +108,12 @@ button {
   }
   p {
     width: auto;
-    margin: 0;
+    margin: 0.3em;
   }
   .luokka:hover {
     width: auto;
   }
   #reset {
-    margin: 0.5em;
-    display: table;
+    margin: 0.7em;
   }
 }
