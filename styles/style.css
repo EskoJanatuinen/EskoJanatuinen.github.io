@@ -11,14 +11,8 @@ h1 {
   color: white;
   background-color: black;
 }
-h2 {
-  font: italic 1.6em Arial, sans-serif;
-  margin-left: 1.4em;
-  margin-right: 0;
-  color: white;
-}
 a {
-  font: 1.4em Arial, sans-serif;
+  font: 1.6em Arial, sans-serif;
   margin-left: 1.6em;
   color: white;
 }
@@ -28,10 +22,4 @@ canvas {
 ul {
   list-style-type: none;
   line-height: 150%;
-}
-
-@media only screen and (orientation: portrait) {
-  ul {
-    font: 14px;
-  }
 }
