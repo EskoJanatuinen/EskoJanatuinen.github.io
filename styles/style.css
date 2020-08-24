@@ -32,6 +32,6 @@ ul {
 
 @media only screen and (orientation: portrait) {
   ul {
-    font: 1em;
+    font: 2em;
   }
 }
