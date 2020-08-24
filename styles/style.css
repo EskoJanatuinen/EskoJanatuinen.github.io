@@ -29,3 +29,9 @@ ul {
   list-style-type: none;
   line-height: 150%;
 }
+
+@media only screen and (orientation: portrait) {
+  ul {
+    font: 1em;
+  }
+}
